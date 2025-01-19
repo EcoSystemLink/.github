@@ -58,8 +58,13 @@ We aspire to be leaders in the B2B market for sustainable technology solutions, 
 
 ### IoT Protocols
 - MQTT
+- MQTT-SN (optimized for sensor networks)
 - LoRaWAN
-- Various wireless communication protocols
+- NB-IoT
+- CoAP 
+- Wi-Fi HaLow (IEEE 802.11ah)
+- BLE (Bluetooth Low Energy)
+- HTTP/2 y WebSockets (for real-time dashboards communication with IoT applications)
 
 ## Contact Us 📫
 
