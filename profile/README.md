@@ -2,12 +2,12 @@
 
 > *Ecological's Systems Link - Connecting sustainability with future technology*
 
-![GitHub Organization Logo](https://github.com/[organization-name].png)
+![GitHub Organization Logo](https://github.com/EcoSystemLink.png)
 
-[![Active Development](https://img.shields.io/badge/Status-Active-success)](https://github.com/Eco-Systems-Link)
-[![IoT Solutions](https://img.shields.io/badge/IoT-Solutions-blue)](https://github.com/Eco-Systems-Link)
-[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red)](https://github.com/Eco-Systems-Link)
-[![Sustainability](https://img.shields.io/badge/Focus-Sustainability-brightgreen)](https://github.com/Eco-Systems-Link)
+[![Active Development](https://img.shields.io/badge/Status-Active-success)](https://github.com/EcoSystemLink)
+[![IoT Solutions](https://img.shields.io/badge/IoT-Solutions-blue)](https://github.com/EcoSystemLink)
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red)](https://github.com/EcoSystemLink)
+[![Sustainability](https://img.shields.io/badge/Focus-Sustainability-brightgreen)](https://github.com/EcoSystemLink)
 
 ## About Us
 
